@@ -1,3 +1,3 @@
 # project basicATM
-it is just a basic code i wrote . This code has many flaw.
-#Don't use negative number.
+It is just basic code that I wrote. This code has many flaws.
+# Don't use any negative number.
