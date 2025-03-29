@@ -1,3 +1,4 @@
 # project basicATM
-It is just basic code that I wrote. This code has many flaws.
+I wrote just basic code to learn about the **OOPS concept**.
+This code has many *flaws*.
 # No. 1 is Don't use any negative numbers.
